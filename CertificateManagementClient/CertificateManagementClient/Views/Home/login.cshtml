@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Login</title>
+
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="mb-4">User Login</h2>
+
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" class="form-control" id="username" name="username" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" class="form-control" id="password" name="password" required>
+            </div>
+
+            <button type="button" class="btn btn-primary" onclick="loginUser()">Login</button>
+        </form>
+
+        <div class="mt-4">
+            <p>Don't have an account? <a asp-controller="Home" asp-action="Register">Register here</a>.</p>
+        </div>
+    </div>
+
+    
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    
+    <script>
+        function loginUser() {
+            var username = $("#username").val();
+            var password = $("#password").val();
+
+            var userData = {
+                username: username,
+                password: password
+            };
+
+            $.ajax({
+                url: "http://localhost:5251/api/User/login",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify(userData),
+                success: function (result) {
+                    console.log(result);
+                    alert("Login successful");
+                    window.location.href = 'index.html';
+                },
+                error: function (error) {
+                    alert("Error: " + error.responseText);
+                }
+            });
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fKe3dWFch9i+RtHmdfMalomxEJKGX+fGtiLdY+D9PGQ=",
+  "Source": "EmployeeCertificateManagement.API",
+  "BasePath": "_content/EmployeeCertificateManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

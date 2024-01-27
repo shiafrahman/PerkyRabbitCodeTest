@@ -1,0 +1,24 @@
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\bin\Debug\net7.0\EmployeeCertificateManagement.Library.deps.json
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\bin\Debug\net7.0\EmployeeCertificateManagement.Library.dll
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\bin\Debug\net7.0\EmployeeCertificateManagement.Library.pdb
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.csproj.AssemblyReference.cache
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.AssemblyInfoInputs.cache
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.AssemblyInfo.cs
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.csproj.CoreCompileInputs.cache
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.dll
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\refint\EmployeeCertificateManagement.Library.dll
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.pdb
+E:\Movies and Series\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\ref\EmployeeCertificateManagement.Library.dll
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\bin\Debug\net7.0\EmployeeCertificateManagement.Library.deps.json
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\bin\Debug\net7.0\EmployeeCertificateManagement.Library.dll
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\bin\Debug\net7.0\EmployeeCertificateManagement.Library.pdb
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.csproj.AssemblyReference.cache
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.AssemblyInfoInputs.cache
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.AssemblyInfo.cs
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.csproj.CoreCompileInputs.cache
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.dll
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\refint\EmployeeCertificateManagement.Library.dll
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\EmployeeCertificateManagement.Library.pdb
+E:\Movies and Series\New folder\PerkyRabbitCodeTest\EmployeeCertificateManagement.API\EmployeeCertificateManagement.Library\obj\Debug\net7.0\ref\EmployeeCertificateManagement.Library.dll

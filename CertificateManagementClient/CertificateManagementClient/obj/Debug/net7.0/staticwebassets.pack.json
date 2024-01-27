@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CertificateManagementClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CertificateManagementClient.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\Adddate.html",
+      "PackagePath": "staticwebassets\\Adddate.html"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.es.js",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.es.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.es.js.map",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.es.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.es.min.js",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.es.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.es.min.js.map",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.es.min.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.umd.js",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.umd.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.umd.js.map",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.umd.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.umd.min.js",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.umd.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\jspdf.umd.min.js.map",
+      "PackagePath": "staticwebassets\\jspdf\\jspdf.umd.min.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\polyfills.es.js",
+      "PackagePath": "staticwebassets\\jspdf\\polyfills.es.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\polyfills.es.min.js",
+      "PackagePath": "staticwebassets\\jspdf\\polyfills.es.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\polyfills.umd.js",
+      "PackagePath": "staticwebassets\\jspdf\\polyfills.umd.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\jspdf\\polyfills.umd.min.js",
+      "PackagePath": "staticwebassets\\jspdf\\polyfills.umd.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Movies and Series\\New folder\\PerkyRabbitCodeTest\\CertificateManagementClient\\CertificateManagementClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CertificateManagementClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CertificateManagementClient.props",
+      "PackagePath": "build\\CertificateManagementClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CertificateManagementClient.props",
+      "PackagePath": "buildMultiTargeting\\CertificateManagementClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CertificateManagementClient.props",
+      "PackagePath": "buildTransitive\\CertificateManagementClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

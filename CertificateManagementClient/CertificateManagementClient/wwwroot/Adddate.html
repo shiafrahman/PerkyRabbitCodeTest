@@ -1,0 +1,53 @@
+﻿
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<div class="form-group">
+
+    <label for="addDate">Add Date:</label>
+    <div class="input-group">
+        <input type="date" class="form-control" id="addDate" placeholder="Enter date">
+        <div class="input-group-append">
+            <button class="btn btn-primary" id="addDateButton">Add Date</button>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    function saveDateToDatabase(date) {
+        var apiUrl = 'http://localhost:5251/api/Certificate';
+
+        $.ajax({
+            url: apiUrl,
+            type: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify({ date: date }),
+            success: function () {
+                console.log('Date saved to database successfully.');
+            },
+            error: function (error) {
+                console.error('Error saving date to database:', error);
+            }
+        });
+    }
+
+    function addDateToDropdown() {
+        var addDateValue = $('#addDate').val().trim();
+        if (addDateValue !== '') {
+            $('#cDate').append($('<option></option>').attr('value', addDateValue).text(addDateValue));
+            $('#addDate').val('');
+            saveDateToDatabase(addDateValue);
+            console.log('Date added to dropdown successfully.');
+            alert("Date save successfully in Select Date Dropdown.");
+            window.location.href = 'index.html';;
+        } else {
+            console.error('Please enter a valid date.');
+        }
+    }
+
+    
+
+    $('#addDateButton').click(function () {
+        addDateToDropdown();
+    });
+</script>
